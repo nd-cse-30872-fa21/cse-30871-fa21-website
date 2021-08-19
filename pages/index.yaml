@@ -283,11 +283,11 @@ body:       |
                     <td class="text-center">24 &times; 6</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-default">Style</span> Programming style for each challenge.</td>
+                    <td><span class="label label-default">Styles</span> Programming style for each challenge.</td>
                     <td class="text-center">24 &times; 1</td>
                 </tr>
                 <tr>
-                    <td><span class="label label-info">External</span> External programming contest.</td>
+                    <td><span class="label label-info">Externals</span> External programming contest.</td>
                     <td class="text-center">2 &times; 15</td>
                 </tr>
                 <tr>
