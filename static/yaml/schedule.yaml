@@ -18,6 +18,9 @@
       
       - date:           Fri 08/27
         topics:         Coding Style
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1e9EqWZihXntmt_dd3J8Q71KLJ7DtI3C9TvEgE7qVf54/edit?usp=sharing
 
       - date:           Sat 08/28
         assignments:
