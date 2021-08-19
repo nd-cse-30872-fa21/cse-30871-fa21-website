@@ -4,6 +4,11 @@
         topics:         Syllabus, I/O
         assignments:
           - Reading 00
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1EulWL6iO6I4pY_pmd4nPiHBDZSm4N9BUYVd6XhlKVZ4/edit?usp=sharing
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1ruTR0YVP8qV7pBOtyCtbqXj6155rRn-s7GICQIolF3w/edit?usp=sharing
 
       - date:           Wed 08/25
         topics:         Complexity
