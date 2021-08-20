@@ -17,6 +17,9 @@
 - name:     Carlo Preciado
   netid:    cpreciad
   github:   Cpreciad
+  conflicts:
+    - guhran
+    - sgutier5
 
 - name:     Gina Brusco
   netid:    gbrusco
