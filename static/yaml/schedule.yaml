@@ -42,6 +42,9 @@
 
       - date:           Wed 09/01
         topics:         Stacks, Queues
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1NoWgnt2p2Y20OCcDa2Xzi5GuIlac6MVW6-EDoX3HZbE/edit?usp=sharing
 
       - date:           Fri 09/03
         topics:         Debugging
