@@ -48,6 +48,9 @@
 
       - date:           Fri 09/03
         topics:         Debugging
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1FewqrXBGUs0EpytF_f_MiBhWb1CIRLHEEH_Jd7GCUiM/edit?usp=sharing
 
       - date:           Sat 09/04
         assignments:
