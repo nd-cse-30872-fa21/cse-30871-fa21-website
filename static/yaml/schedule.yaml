@@ -17,6 +17,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/17FDu4SO-RtnyGzAF35rF7R4sho6mfpmsQy6d7IYoAhA/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=872e6f4d-bbae-4678-add6-ad8f01156c2d
       
       - date:           Fri 08/27
         topics:         Coding Style
