@@ -75,6 +75,9 @@
 
       - date:           Wed 09/08
         topics:         Sorting
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1ufeHibxWHTgKlvpxJJr_IGZ8nQuA9DOamVRcsa-9e8A/edit?usp=sharing
 
       - date:           Fri 09/10
         topics:         Testing
