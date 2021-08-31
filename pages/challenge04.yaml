@@ -196,12 +196,15 @@ body:       |
     <div class="alert alert-success" markdown="1">
     #### <i class="fa fa-github"></i> Pull Request
 
-    Once you have commited your work and pushed it to [GitHub], remember to
-    create a **pull request** and assign it to the **teaching assistant**.
+    Once you have committed your work and pushed it to [GitHub], remember to
+    create a **pull request** and assign it to the appropriate **teaching
+    assistant** from the [Reading 02 TA List].
+
     </div>
 
     [GitHub]:           https://github.com
     [HackerRank]:       https://www.hackerrank.com
     [LeetCode]:         https://leetcode.com
-    [Reading 01]:       reading01.html
+    [Reading 00]:       reading00.html
+    [Reading 02 TA List]: reading02_tas.html
     [curl]:             https://curl.haxx.se/
