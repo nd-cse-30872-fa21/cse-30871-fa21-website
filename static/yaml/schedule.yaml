@@ -102,6 +102,9 @@
         topics:         Maps, Sets
         assignments:
           - Reading 03
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1RnOC32LqjZg5ylOvtUF26X6t-HQ-wScLbu97YIwi5V4/edit?usp=sharing
 
       - date:           Wed 09/15
         topics:         Memoization, Profiling
