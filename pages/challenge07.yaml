@@ -53,16 +53,21 @@ body:       |
 
     For each sequence of numbers, print out all the **triplets** in **ascending
     order**:
-    
+
     ### Example Output
-    
+
         :::text
         -1 + -1 + 2
         -1 + 0 + 1
 
-    Additionally, make sure you put a **blank line** between the outputs of
-    each input sequence.
-    
+    <div class="alert alert-warning" markdown="1">
+
+    **Note**: Output the numbers in **ascending order** and ensure there is a
+      single **blank line** between the outputs of each input sequence of
+      numbers.
+
+    </div>
+
     <div class="alert alert-info" markdown="1">
     #### <i class="fa fa-lightbulb-o"></i> Programming Challenges
 
