@@ -84,12 +84,16 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1ufeHibxWHTgKlvpxJJr_IGZ8nQuA9DOamVRcsa-9e8A/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a6a909d2-f4e1-4c58-83fa-ad9d01139e53
 
       - date:           Fri 09/10
         topics:         Testing
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1GlYInIga4Ox2d4FWgDkfCOV5Ea3LuAE9kxcpaaiVG-I/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6c5e5591-25f1-4459-ba1e-ad9f01146bcd
 
       - date:           Sat 09/11
         assignments:
