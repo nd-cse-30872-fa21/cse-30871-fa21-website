@@ -137,6 +137,9 @@
 
       - date:           Fri 09/24
         topics:         Static Analysis
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1LuAhaeaPbVqC40OLrDNG8w3bKveoXdycKIUUSl_HA9k/edit?usp=sharing
 
       - date:           Sat 09/25
         assignments:
