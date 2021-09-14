@@ -179,6 +179,9 @@
         topics:         Memoization (Again)
         assignments:
           - Reading 06
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1UWndq2EktyLkHz_d_rT-vKye7HoCC6jMv6-W2_QyIrk/edit?usp=sharing
 
       - date:           Wed 10/06
         topics:         Table Building
