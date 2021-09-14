@@ -164,6 +164,9 @@
 
       - date:           Fri 10/01
         topics:         Documentation
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1OtnYuc9ptZC8JJSPhFS-gq1bfb304VW2LlVtXKL1P_U/edit?usp=sharing
 
       - date:           Sat 10/02
         assignments:
