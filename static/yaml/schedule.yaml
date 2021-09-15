@@ -109,9 +109,14 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1RnOC32LqjZg5ylOvtUF26X6t-HQ-wScLbu97YIwi5V4/edit?usp=sharing
-
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c93cdcd4-6f75-4a03-aff4-ada20115278a
+            
       - date:           Wed 09/15
         topics:         Memoization, Profiling
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5004c084-1fa7-44f7-a114-ada40116021e
 
       - date:           Fri 09/17
         topics:         History
