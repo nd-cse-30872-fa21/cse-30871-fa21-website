@@ -120,6 +120,9 @@
 
       - date:           Fri 09/17
         topics:         History
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e4d5d09b-2756-4f24-b2b9-ada6010e9bab
 
       - date:           Sat 09/18
         assignments:
