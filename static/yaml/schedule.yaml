@@ -138,6 +138,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1oiqUBRcT7XdNX_roesBuFukepNE6VPox4XQgAyVBDqE/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d0aef736-e1d5-4d61-bcad-ada90111b6cc
 
       - date:           Wed 09/22
         topics:         Permutations, Backtracking
