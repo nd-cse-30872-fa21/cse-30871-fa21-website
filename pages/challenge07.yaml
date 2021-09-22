@@ -88,7 +88,7 @@ body:       |
         </tr>
         <tr>
           <td>**Space Complexity**</td>
-          <td>`O(N)`, where `N` is the length of each input sequence.</td>
+          <td>`O(2^N)`, where `N` is the length of each input sequence.</td>
         </tr>
       </tbody>
     </table>
