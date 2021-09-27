@@ -143,6 +143,9 @@
 
       - date:           Wed 09/22
         topics:         Permutations, Backtracking
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaa1c0af-da7f-4156-9e75-adab011617b6
 
 
       - date:           Fri 09/24
@@ -150,8 +153,6 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1LuAhaeaPbVqC40OLrDNG8w3bKveoXdycKIUUSl_HA9k/edit?usp=sharing
-          - name:       Panopto
-            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=aaa1c0af-da7f-4156-9e75-adab011617b6
 
       - date:           Sat 09/25
         assignments:
