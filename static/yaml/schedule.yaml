@@ -167,6 +167,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1Hd6WPZWXCbf69lkCC3Eb2uA2hTaC5phvXhhJ4NhzGfg/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec42e19b-923a-414e-bff2-adb0011310b4
 
       - date:           Wed 09/29
         topics:         Greedy Algorithms
