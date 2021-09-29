@@ -176,6 +176,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1sHGBQ4zw59ZYF5k5S186D_bQ6EqnaagUvtUk86OdDi0/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0b4b2036-230b-445d-b3c6-adb201139c3b
 
       - date:           Fri 10/01
         topics:         Documentation
