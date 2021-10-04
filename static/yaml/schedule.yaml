@@ -184,7 +184,9 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1OtnYuc9ptZC8JJSPhFS-gq1bfb304VW2LlVtXKL1P_U/edit?usp=sharing
-
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb08b8e9-618b-4a2f-83e8-adb4010b35e1
+            
       - date:           Sat 10/02
         assignments:
           - Challenge 09
@@ -199,6 +201,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1UWndq2EktyLkHz_d_rT-vKye7HoCC6jMv6-W2_QyIrk/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5c2afa85-907f-4199-a04d-adb70112335e
 
       - date:           Wed 10/06
         topics:         Table Building
