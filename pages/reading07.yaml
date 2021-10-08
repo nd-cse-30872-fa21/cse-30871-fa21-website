@@ -67,12 +67,13 @@ body:       |
 
         $ ../.scripts/check.py                # Check reading07 quiz
         Checking reading07 quiz ...
-              Q1 0.60
-              Q2 0.60
+              Q1 0.70
+              Q2 0.50
               Q3 0.60
               Q4 0.60
               Q5 0.60
-           Score 3.00
+           Score 3.00 / 3.00
+          Status Success
 
         $ git add answers.json                # Add answers.json to staging area
         $ git commit -m "Reading 07: Done"    # Commit work
