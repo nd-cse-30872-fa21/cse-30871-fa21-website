@@ -250,7 +250,7 @@
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1PY2NsO5Ei9xAYm51MrvgothPMZXj9SThMhFoGiFXfMU/edit?usp=sharing
           - name:       Panopto
-            video:      https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbcd05e1-5612-4683-9193-adcc01123c1a
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbcd05e1-5612-4683-9193-adcc01123c1a
 
       - date:           Wed 10/27
         topics:         Traversal
