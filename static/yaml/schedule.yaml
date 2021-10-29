@@ -269,6 +269,9 @@
         topics:         Representation
         assignments:
           - Reading 08
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1v_4PEZJKSQAJfWZRFMdR0ao5X0PAY8Fcd-DexKZnZCI/edit?usp=sharing
 
       - date:           Wed 11/03
         topics:         Traversal
