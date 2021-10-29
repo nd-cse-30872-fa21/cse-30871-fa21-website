@@ -290,6 +290,9 @@
         topics:         Spanning Trees
         assignments:
           - Reading 09
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1IkHpix5gEgtGzUvBxg27Ub7GN6usFIZd0QOY0LZWdgw/edit?usp=sharing
 
       - date:           Wed 11/10
         topics:         Topological Sorting
