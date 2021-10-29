@@ -257,6 +257,9 @@
 
       - date:           Fri 10/29
         topics:         Divide and Conquer
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=db8e5bf6-eb3a-45a8-ba8b-add0010eb8ed
 
       - date:           Sat 10/30
         assignments:
