@@ -275,6 +275,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1v_4PEZJKSQAJfWZRFMdR0ao5X0PAY8Fcd-DexKZnZCI/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5b3ff08a-c665-4d12-b910-add30111d881
 
       - date:           Wed 11/03
         topics:         Traversal
