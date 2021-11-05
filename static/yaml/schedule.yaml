@@ -348,14 +348,14 @@
         topics:         Thanksgiving
       
       - date:           Sat 11/27
-        assignments:
-          - Challenge 21
-          - Challenge 22
 
 - name:     Miscellaneous
   days:
       - date:           Mon 11/29
         topics:         Brain Teasers
+        assignments:
+          - Challenge 21
+          - Challenge 22
 
       - date:           Wed 12/01
         topics:         Graduate School
