@@ -353,9 +353,6 @@
   days:
       - date:           Mon 11/29
         topics:         Brain Teasers
-        assignments:
-          - Challenge 21
-          - Challenge 22
 
       - date:           Wed 12/01
         topics:         Graduate School
@@ -365,8 +362,9 @@
       
       - date:           Sat 12/04
         assignments:
+          - Challenge 21
+          - Challenge 22
           - Challenge 23
-          - Challenge 24
 
 - name:     Contest II
   days:
