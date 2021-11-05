@@ -280,9 +280,15 @@
 
       - date:           Wed 11/03
         topics:         Traversal
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=429fbe44-0a39-4d91-aa4a-add501144f8f
 
       - date:           Fri 11/05
         topics:         Shortest Paths
+        items:
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e634c559-b9ab-4942-a985-add701142a01
 
       - date:           Sat 11/06
         assignments:
