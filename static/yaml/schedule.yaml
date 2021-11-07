@@ -322,6 +322,9 @@
         topics:         Paths
         assignments:
           - Reading 10
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1yQ3izMzePHf_V_mvyoFvyeWYUSak5KFdykwSSD6Jq_g/edit?usp=sharing
 
       - date:           Wed 11/17
         topics:         Flows and Cuts
@@ -346,8 +349,6 @@
 
       - date:           Fri 11/26
         topics:         Thanksgiving
-      
-      - date:           Sat 11/27
 
 - name:     Miscellaneous
   days:
