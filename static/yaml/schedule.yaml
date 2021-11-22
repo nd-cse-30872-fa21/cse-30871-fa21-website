@@ -356,6 +356,8 @@
         items:
           - name:       Slides
             link:       https://docs.google.com/presentation/d/1NRDVdyBq1w9qDGV4Apc_cQN04FRMSEKhOROPOGsiF7E/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7997a2ab-981b-47d9-8ab4-ade801210952
 
       - date:           Wed 11/24
         topics:         Thanksgiving
@@ -366,13 +368,17 @@
 - name:     Miscellaneous
   days:
       - date:           Mon 11/29
-        topics:         Brain Teasers
-
-      - date:           Wed 12/01
         topics:         Graduate School
 
-      - date:           Fri 12/03
+      - date:           Wed 12/01
         topics:         Slacking and Hacking
+
+- name:     Contest II
+  days:
+      - date:           Fri 12/03
+        topics:         ''
+        items:
+          - name:       Contest II
       
       - date:           Sat 12/04
         assignments:
@@ -380,8 +386,6 @@
           - Challenge 22
           - Challenge 23
 
-- name:     Contest II
-  days:
       - date:           Mon 12/06
         topics:         ''
         items:
