@@ -369,6 +369,11 @@
   days:
       - date:           Mon 11/29
         topics:         Graduate School
+        items:
+          - name:       Slides
+            link:       https://docs.google.com/presentation/d/1s-_bPCxR5aYbndr_--KXen3132mY8JarCTbyh0Q6_54/edit?usp=sharing
+          - name:       Panopto
+            link:       https://notredame.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=57bc0607-69af-42ba-be3c-adef0121032a
 
       - date:           Wed 12/01
         topics:         Slacking and Hacking
